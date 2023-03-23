@@ -1,0 +1,26 @@
+<question-paper>
+    <question>
+        <text>What is the capital of India?</text>
+        <optionA>New Delhi</optionA>
+        <optionB>Mumbai</optionB>
+        <optionC>Chennai</optionC>
+        <optionD>Kolkata</optionD>
+        <answer value="optionA"></answer>
+    </question>
+    <question>
+        <text>Which of the following is a fruit?</text>
+        <optionA>Potato</optionA>
+        <optionB>Ginger</optionB>
+        <optionC>Garlic</optionC>
+        <optionD>Apple</optionD>
+        <answer value="optionD"></answer>
+    </question>
+    <question>
+        <text>Dhaka is the capital of which country?</text>
+        <optionA>United Kingdom</optionA>
+        <optionB>United States of America</optionB>
+        <optionC>Bangladesh</optionC>
+        <optionD>Afghanistan</optionD>
+        <answer value="optionC"></answer>
+    </question>
+</question-paper>
